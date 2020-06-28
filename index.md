@@ -4,3 +4,7 @@ Thommy Pommi ist der Held der Serie Kartoffel-Action. Seine besondere Fähigkeit
 * hp 100
 * att 30
 * def 20
+
+Thommy Pommi:
+>Kartoffeln sind
+>der Hammer
